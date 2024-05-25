@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bc00cdc-c852-4f72-bedd-84467b8f628d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/unbosque/dateplan/modelo/Agenda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/Agendajsp.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7bc00cdc-c852-4f72-bedd-84467b8f628d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +21,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AchuryMs/DatePlan",
+    "accountId": "d9c2d0e4-0ec7-46ee-bef3-55cc58719f3d"
+  }
+}]]></component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -106,7 +108,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716677894112</updated>
-      <workItem from="1716677895460" duration="1549000" />
+      <workItem from="1716677895460" duration="1865000" />
     </task>
     <servers />
   </component>
